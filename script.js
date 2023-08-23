@@ -130,3 +130,19 @@
 
 
 // 8
+// let array5 = [1, 2, 3, 7, 6, 9];
+
+// for (let i = 0; i < array5.length; i++) {
+//   if (array5[i] === 7) {
+//     continue; 
+//   }
+//   console.log(array5[i]);
+// }
+
+
+// 1
+// 2
+// 3
+// 6
+// 9
+
