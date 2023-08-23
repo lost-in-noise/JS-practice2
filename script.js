@@ -115,7 +115,27 @@
 // [5, 4, 3, 2, 1]
 
 
+
 // 7
+
+// const calculateAgeCategory = (age) => {
+//     if (age > 18) {
+//       return "სრულწლოვანი";
+//     } else {
+//       return "არასრულწლოვანი";
+//     }
+//   };
+  
+  // მაგალითი:
+//   const userAge = 36;
+//   const ageCategory = calculateAgeCategory(userAge);
+//   console.log(ageCategory); 
+  
+  // "სრულწლოვანი"
+  
+
+
+// 8
 // let array2 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
 
 // for (let i = 0; i < array2.length; i++) {
@@ -129,7 +149,7 @@
 
 
 
-// 8
+// 9
 // let array5 = [1, 2, 3, 7, 6, 9];
 
 // for (let i = 0; i < array5.length; i++) {
