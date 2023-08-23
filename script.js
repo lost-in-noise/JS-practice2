@@ -86,20 +86,30 @@
 
 
 //   5
-function checkOddEven(number) {
-    if (typeof number !== 'number') {
-      return 'Invalid input'; 
-    }
+// function checkOddEven(number) {
+//     if (typeof number !== 'number') {
+//       return 'Invalid input'; 
+//     }
   
-    if (number % 2 === 0) {
-      return 'This number is even';
-    } else {
-      return 'This number is odd';
-    }
-  }
+//     if (number % 2 === 0) {
+//       return 'This number is even';
+//     } else {
+//       return 'This number is odd';
+//     }
+//   }
   
-  let inputNumber = 5;
-  let result = checkOddEven(inputNumber);
-  console.log(result); 
+//   let inputNumber = 5;
+//   let result = checkOddEven(inputNumber);
+//   console.log(result); 
   
 //   This number is odd
+
+
+// 6
+let array = [1, 2, 3, 4, 5];
+let reversedArray = array.reverse();
+
+console.log(reversedArray); 
+
+
+// [5, 4, 3, 2, 1]
