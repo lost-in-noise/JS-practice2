@@ -106,10 +106,27 @@
 
 
 // 6
-let array = [1, 2, 3, 4, 5];
-let reversedArray = array.reverse();
+// let array = [1, 2, 3, 4, 5];
+// let reversedArray = array.reverse();
 
-console.log(reversedArray); 
+// console.log(reversedArray); 
 
 
 // [5, 4, 3, 2, 1]
+
+
+// 7
+// let array2 = [1, 2, 3, 4, 5, 6, 7, 8, 9];
+
+// for (let i = 0; i < array2.length; i++) {
+//   if (array2[i] === 5) {
+//     console.log('არის');
+//     break;
+//   }
+// }
+
+// არის
+
+
+
+// 8
