@@ -59,3 +59,30 @@
 //   giorgi saakadze
 
 
+// 4
+
+// function findMaxNumber(numbers) {
+//     if (!Array.isArray(numbers) || numbers.length === 0) {
+//       return undefined; 
+//     }
+  
+//     let maxNumber = numbers[0]; 
+  
+//     for (let i = 1; i < numbers.length; i++) {
+//       if (numbers[i] > maxNumber) {
+//         maxNumber = numbers[i]; 
+//       }
+//     }
+  
+//     return maxNumber;
+//   }
+  
+//   let numbersArray = [5, 52, 20, 14, 33];
+//   let maxNumber = findMaxNumber(numbersArray);
+//   console.log("მაქსიმალური რიცხვი:", maxNumber); 
+
+//   მაქსიმალური რიცხვი: 52
+
+
+
+  
