@@ -37,3 +37,25 @@
 //   110
 
 // .....3
+// let user = {
+//     firstname: 'giorgi',
+//     lastname: 'saakadze',
+//     age: 32,
+//     isloggedin: true
+//   }
+  
+//   function getFullNameWithStatus(user) {
+//     if (user.isloggedin) {
+//       return `${user.firstname} ${user.lastname}`;
+//     } else {
+//       return 'false';
+//     }
+//   }
+  
+//   let fullNameOrStatus = getFullNameWithStatus(user);
+//   console.log(fullNameOrStatus);
+  
+
+//   giorgi saakadze
+
+
