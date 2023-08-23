@@ -85,4 +85,21 @@
 
 
 
+//   5
+function checkOddEven(number) {
+    if (typeof number !== 'number') {
+      return 'Invalid input'; 
+    }
   
+    if (number % 2 === 0) {
+      return 'This number is even';
+    } else {
+      return 'This number is odd';
+    }
+  }
+  
+  let inputNumber = 5;
+  let result = checkOddEven(inputNumber);
+  console.log(result); 
+  
+//   This number is odd
