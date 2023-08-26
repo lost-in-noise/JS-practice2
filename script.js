@@ -85,6 +85,14 @@
 //   let fullNameOrStatus = getFullNameWithStatus(user);
 //   console.log(fullNameOrStatus);
   
+// ან
+// let userName = (firstname, lastname, age, isloggedin) => {
+//   let nameResult = isloggedin = true ? `${firstname} ${lastname}` :'false';
+//   return nameResult;
+// }
+//   let userNameResult = userName('giorgi','saakadze', 32, true);
+//   console.log(userNameResult);
+
 
 //   giorgi saakadze
 
