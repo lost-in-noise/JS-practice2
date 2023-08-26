@@ -144,7 +144,11 @@
 
 // [5, 4, 3, 2, 1]
 
-
+// ან
+// let array = [1, 2, 3, 4, 5];
+// for (let item = array.length - 1; item >= 0; item--) {
+// console.log(array[item]);
+// }
 
 // 7
 
