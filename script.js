@@ -120,11 +120,7 @@
 
 
 //   5
-// function checkOddEven(number) {
-//     if (typeof number !== 'number') {
-//       return 'Invalid input'; 
-//     }
-  
+// function checkOddEven(number) { 
 //     if (number % 2 === 0) {
 //       return 'This number is even';
 //     } else {
