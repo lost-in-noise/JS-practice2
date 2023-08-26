@@ -17,6 +17,21 @@
 //   const result = sumOfPositiveNumbers(inputNumbers);
 //   console.log(result);
 
+// ან
+// function sum(...numbersArray) {
+//   let numberSum = 0;
+//   for (let item of numbersArray) {
+//       if (item > 0) {
+//           numberSum += item; 
+//       }
+//   }
+//   return numberSum;
+// }
+
+// let resultSum = sum(2, -9, 5, 11, -30, 100, -8, -11, -4, 5, -6, 8);
+
+// console.log(resultSum);
+
 //   131
 
 // .....2
