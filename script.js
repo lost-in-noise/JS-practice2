@@ -49,6 +49,21 @@
 //   const result = calculateSum(inputNumbers);
 //   console.log(result);
 
+
+// ან
+// function calculateSum(...numbers) {
+//   let sum = 0;
+
+//   for (let i = 0; i < numbers.length; i++) {
+//     sum += numbers[i];
+//   }
+
+//   return sum;
+// }
+// let resultSum = calculateSum(10, 50, 6, 7, 8, 11, 6, 3, 9);
+
+// console.log(resultSum);
+
 //   110
 
 // .....3
